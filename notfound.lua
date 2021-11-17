@@ -341,10 +341,12 @@ end
 ----- SCREEN OUTPUT
 function redraw()
   screen.clear()
-  screen.move(0,60)
-  screen.text("look where you last saw it")
   screen.move(0,10)
+  screen.font_size(10)
   screen.text(params:string("midi target"))
   screen.move(0,30)
+  screen.move(0,60)
+  screen.font_size(25)
+  screen.text("notfound")
   screen.update()
 end
