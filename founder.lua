@@ -48,7 +48,7 @@ function init()
   }
    grid_redraw()
      
-  --clock.run(letter)
+  clock.run(letter)
   --
  
  
@@ -77,7 +77,7 @@ for i=1,2 do
       for i=1,4 do
         if 15*alpha[alpharow][i+(alphabank*4)]~=0 then
           g:led(alpharow,9-i-(alphabank*4),15*alpha[alpharow][i+(alphabank*4)])
-          clock.sleep(0.1)
+          --clock.sleep(0.02)
           g:refresh()
         end
       end
@@ -86,7 +86,12 @@ for i=1,2 do
     if xgib==0 then
       return
     end
-  clock.sleep(0.1)
+  if #voices==0 then
+  clock.sleep(0.2)
+  elseif #voices~=0 then
+    grid_redraw()
+    return
+  end
   end
 alphabank = 1
 alpharow = 1  
