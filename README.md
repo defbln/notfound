@@ -35,6 +35,6 @@ At this time founder is really simple and is missing chord memory, but I hope yo
 
 
 End:
-I hope these tools help you find new use for your 404, remember there are still new things to be found across the bank no matter how many times you have walked them before. 
+I hope these tools help you find new use for your 404, remember there are still new things to be found across the banks no matter how many times you have walked them before. 
 
-Have fun :) -defbln
+and have fun :) -defbln
