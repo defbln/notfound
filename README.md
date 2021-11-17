@@ -21,7 +21,8 @@ You can also record a unquantized Patterntime loop (which at this time plays ind
 
 f/o/u/n/d/e/r
 -404 maping for grid 
-![IMG_7946](https://user-images.githubusercontent.com/61803043/142259796-ff6b6445-a368-431a-87ea-ea3ba8423e22.jpg)
+![IMG_7946 2](https://user-images.githubusercontent.com/61803043/142261765-1dafd0a1-1cd3-4c18-b95c-9eea797e79c8.jpg)
+
 
 Press any pad in sections A->J to play the corisponding pad on your 404, watch the voices stack up on the screen of your Norns. To remove a sounding pad press it again.
 
